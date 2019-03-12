@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Animation"},{"p":"<Unnamed>","l":"Character"},{"p":"<Unnamed>","l":"Menu.ColorAction"},{"p":"<Unnamed>","l":"Config"},{"p":"<Unnamed>","l":"Enemy"},{"p":"<Unnamed>","l":"Map"},{"p":"<Unnamed>","l":"Menu"},{"p":"<Unnamed>","l":"Player"},{"p":"<Unnamed>","l":"Program"}]

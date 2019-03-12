@@ -1,0 +1,37 @@
+                              INSTRUKCJA
+1.Celem gry jest zestrzelenie wszystkich poruszaj¹cych siê przeciwników.
+2.Gra sk³ada siê z 3 poziomów. 
+3.Gracz rozpoczyna grê na poziomie 1. Ma maksymaln¹ iloœæ ¿yæ (3) i staje naprzeciwko okreœlonej 
+w pliku konfiguracyjnym liczbie wrogów. 
+4.Na ka¿dym poziomie znajduje siê inna liczba przeciwników.
+5.Wyró¿nione s¹ 3 rodzaje przeciwników:
+   ->zielone: maj¹ 1 ¿ycie, za zabicie dostajemy 20 pkt,
+   ->niebieskie: maj¹ 2 ¿ycia, za zabicie dostajemy 40 pkt,
+   ->czerwone: maj¹ 3 ¿ycia, za zabicie dostajemy 60 pkt.
+6.Poziom koñczy siê po zestrzeleniu wszystkich wrogich pojazdów.
+7.Na ka¿dym kolejny poziomie wrogowie poruszaj¹ siê szybciej.
+8.Ka¿dy wrogów spuszcza co jakiœ czas na nas bomby, je¿eli w nas trafi – tracimy jedno ¿ycie.
+9.W grze s¹ tak¿e bonusy wypuszczane przez wrogów:
+   ->serca: dodaj¹ graczowi jedno ¿ycie, jeœli ma ich mniej ni¿ 3,
+   ->monety: dodaj¹ graczowi 50 punktów.
+10.W grze s¹ równie¿ 2 schrony ("ochraniacze"). Gracz mo¿e chowaæ siê pod nimi przed bombami. 
+Jednak ka¿dy ze schronów ma 2 ¿ycia - po dwukrotny trafieniu zostaj¹ zniszczone i znikaj¹. 
+Gracz sam mo¿e je zniszczyæ np. w celu zdobycia serca lub monety, poniewa¿ bonusy spadaj¹ce na 
+schron przepadaj¹ i zostaj¹ zniszczone.
+11.Gra koñczy siê, gdy:
+   ->gracz przejdzie wszystkie poziomy,
+   ->gracz zostanie zabity przez wrogie statki (straci wszystkie 3 ¿ycia),
+   ->wrogie statki zderz¹ siê z graczem lub schronem.
+
+
+	
+                              STEROWANIE:
+->Pojazdem gracza sterujê sie za pomoc¹ strza³ek,
+->Wystrzelenie pocisku poprzez wciœniêcie przycisku "spacja".
+
+	
+W pliku tekstowym zapisywanych jest 10 najlepszych wyników uzyskanych przez graczy.
+
+Autor gry: Micha³ Mi³osz.
+
+Dobrej Zabawy!

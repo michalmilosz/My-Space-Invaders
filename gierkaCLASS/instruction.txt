@@ -1,0 +1,27 @@
+INSTRUKCJA
+1. Celem gry jest zestrzelenie wszystkich poruszaj¹cych siê przeciwników.
+2. Gra sk³ada sie z 3 leveli. 
+3. Na ka¿dym levelu znajduje siê inna liczba przeciwnikow.
+4. Wyró¿nione s¹ 3 rodzaje przeciwników:
+	->zielone: maja 1 zycie, za zabicie dostajemy 20 pkt
+	->niebieskie: maja 2 zycia, za zabicie dostajemy 40 pkt
+	->czerwone: maja 3 zycia, za zabicie dostajemy 60 pkt
+	Kazdy z wrogow moze na nas spuszczac bomby co jakis czas
+5. Level koñczy sie po zestrzeleniu wszystki wrogich pojazdow.
+6. W ka¿dym kolejny levelu wrogowie poruszaj¹ siê szybciej
+6. W grze s¹ tak¿e bosuny wypuszczane przez wrogów:
+	->serca: dodaja nam 1 zycie, jesli mamyich mniej niz 3
+	->monety: dodaja nam dodatkowe 50 punktow
+6. Gra konczy siê, gdy:
+	->gracz przejdzie wszystkie levele
+	->gracz zostanie zabity przez wrogie statki
+	->wrogie staki zejd¹ na poziom gracza lub poziom "ochraniaczy"
+	
+			STEROWANIE:
+-Pojazdem gracza sterujê sie za pomoc¹ stzra³ek ( <- , ->)
+-Wystrzelenie pocisku wykonuje siê poprzez wciœniêcie przycisku "spacja"
+
+	
+W pliku tekstowym zapisywanych jest 10 najlepszych wyników uzyskanych przez graczy
+
+Dobrej Zabawy!
